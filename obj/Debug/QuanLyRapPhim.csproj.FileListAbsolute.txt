@@ -1,0 +1,11 @@
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe.config
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csprojAssemblyReference.cache
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Form1.resources
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Properties.Resources.resources
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.GenerateResource.cache
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
+C:\Users\COMPUTER\source\repos\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.ResolveComReference.cache
